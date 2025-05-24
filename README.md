@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I am Rotr. Mmesoma Nzeribe</h1>
 <h1 align="center">Welcome to my Github Profile😊</h1>
-<p align="center">
-🎓 Frontend Developer | Computer Science Undergrad at UNN  
-🌍 Nigerian tech enthusiast passionate about building clean, responsive, and user-friendly web interfaces
-💡 Strong advocate for women in STEM</h3>
-</p>
+<h3 align="center">🎓 Frontend Developer | Computer Science Undergrad at UNN  <br>
+🌍 Nigerian tech enthusiast passionate about building clean, responsive, and user-friendly web interfaces<br>
+💡 Big on learning, community, and repping women in tech 💻✨<h3>
+
 
 <h1 align="left">About Me ⚡</h1>
 
