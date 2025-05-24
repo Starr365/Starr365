@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I am Rotr. Mmesoma Nzeribe</h1>
 <h1 align="center">Welcome to my Github Profile😊</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&color=007ACC&center=true&vCenter=true&width=900&lines=🎓+Frontend+Developer+%7C+Computer+Science+Undergrad+at+UNN;🌍+Nigerian+tech+enthusiast+passionate+about+building+clean%2C+responsive%2C+and+user-friendly+web+interfaces;💡+Strong+advocate+for+women+in+STEM" alt="Typing SVG" />
+🎓 Frontend Developer | Computer Science Undergrad at UNN  
+🌍 Nigerian tech enthusiast passionate about building clean, responsive, and user-friendly web interfaces
+💡 Strong advocate for women in STEM</h3>
 </p>
 
 <h1 align="left">About Me ⚡</h1>
