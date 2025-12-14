@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Frontend Projects to improve my skills in responsive design and component architecture**
 
-- 🌱 I’m currently learning **React.js, Tailwind CSS, and TypeScript**
+- 🌱 I’m currently learning **Vue.js, Astro, and Backend systems**
 
 - 👯 I’m looking to collaborate on **Frontend-focused open source projects**
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Starr365](https://github.com/Starr365)
 
-- 💬 Ask me about **HTML5, CSS, JavaScript, React, Git & GitHub, Responsive Design, Accessibility and building beginner-friendly frontend projects**
+- 💬 Ask me about **HTML5, CSS, JavaScript, React, Next.js, Git & GitHub, Responsive Design, Accessibility and building beginner-friendly frontend projects**
 
 - 📫 How to reach me **mmesomanzeribe@gmail.com**
 
