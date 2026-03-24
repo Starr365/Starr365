@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9FEF00&center=true&vCenter=true&width=435&lines=Hey+there+👋;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007BFF&center=true&vCenter=true&width=435&lines=Hey+there+👋;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
 </div>
 
-# I am Nzeribe Mmesoma Stella
+<h1 align="center">I am Nzeribe Mmesoma Stella</h1>
 
 ### A Fullstack Developer (Frontend-focused) and Computer Science undergraduate passionate about building scalable, user-focused web applications and solving real-world problems through technology 🌍💻
 
@@ -29,30 +29,30 @@ In addition to building, I enjoy collaborating on real-world projects, supportin
 ## 🛠️ My Toolkit
 
 ### 💻 Frontend
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.simpleicons.org/react/61DAFB" alt="react" width="40" height="40"/> </a>
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://cdn.simpleicons.org/react/61DAFB" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.simpleicons.org/nextjs/000000" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://svelte.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="typescript" width="40" height="40"/> </a>
+<a href="https://svelte.dev/" target="_blank"> <img src="https://cdn.simpleicons.org/svelte/FF3E00" alt="svelte" width="40" height="40"/> </a>
 
 ### 🎨 HTML & Styling
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn.simpleicons.org/css3/1572B6" alt="css" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://ui.shadcn.com/" target="_blank"> <img src="https://cdn.simpleicons.org/shadcnui/000000" alt="shadcnui" width="40" height="40"/> </a>
 
 ### ⚙️ State Management
-<a href="https://zustand-demo.pmnd.rs/" target="_blank"> <img src="https://cdn.simpleicons.org/zustand/orange" alt="zustand" width="40" height="40"/> </a>
+<a href="https://zustand-demo.pmnd.rs/" target="_blank"> <img src="https://img.icons8.com/color/48/bear.png" alt="zustand" width="40" height="40"/> </a>
 <a href="https://tanstack.com/query/latest" target="_blank"> <img src="https://cdn.simpleicons.org/reactquery/FF4154" alt="tanstackquery" width="40" height="40"/> </a>
 
 ### 🖥️ Backend & Database
-<a href="https://nodejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://nodejs.org/" target="_blank"> <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://expressjs.com/" target="_blank"> <img src="https://cdn.simpleicons.org/express/000000" alt="express" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://supabase.com/" target="_blank"> <img src="https://cdn.simpleicons.org/supabase/3FCF8E" alt="supabase" width="40" height="40"/> </a>
 
 ### 🧪 Testing
-<a href="https://www.postman.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank"> <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="postman" width="40" height="40"/> </a>
 <a href="https://playwright.dev/" target="_blank"> <img src="https://cdn.simpleicons.org/playwright/2EAD33" alt="playwright" width="40" height="40"/> </a>
 
 ---
@@ -90,13 +90,13 @@ I’m a proud Scrimbassador, and I recommend Scrimba for learning web developmen
 ## 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=starr365&show_icons=true&theme=radical&locale=en&layout=compact" alt="starr365" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=starr365&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="starr365" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=starr365&show_icons=true&theme=radical&locale=en" alt="starr365" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=starr365&show_icons=true&theme=tokyonight&locale=en" alt="starr365" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=starr365&theme=radical" alt="starr365" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=starr365&theme=tokyonight" alt="starr365" />
 </p>
