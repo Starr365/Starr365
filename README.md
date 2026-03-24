@@ -10,21 +10,29 @@ A Fullstack Developer (Frontend-focused) and Computer Science undergraduate pass
 
 In addition to building, I enjoy collaborating on real-world projects, supporting beginner developers, and continuously improving my skills in tech💡✨
 
-🧠 **What I build:** Web apps • Responsive websites • Fullstack web solutions • mobile applications (exploring)
+- 🧠 **What I build:**
+  Web apps • Responsive websites • Fullstack web solutions • mobile applications (exploring)
 
-🎨 **What I care about:** Clean and responsive UI, accessibility, performance, and writing maintainable, scalable code
+- 🎨 **What I care about:**
+  Clean and responsive UI, accessibility, performance, and writing maintainable, scalable code
 
-🧩 **Tech I'm using:** React • Next.js • JavaScript • TypeScript • TailwindCSS • HTML • CSS • 
+- 🧩 **Tech Stack I use:**
+  React • Next.js • JavaScript • TypeScript • TailwindCSS • HTML • CSS
 
-🚀 **Fun fact:** I’m an avid reader who loves fiction, and I enjoy expressing myself through music and movement
+- 🚀 **Fun fact:**
+  I’m an avid reader who loves fiction, and I enjoy expressing myself through music and movement
 
-📚 **Learning:** Currently expanding my skillset in backend systems, system design fundamentals, and QA testing
+- 📚 **Learning:**
+  Currently expanding my skillset in backend systems, system design fundamentals, and QA testing
 
-🤝 **Collaboration:** Looking to collaborate on innovative solutions
+- 🤝 **Collaboration:**
+  Looking to collaborate on innovative solutions
 
-👩‍💼 **Pronouns:** She/Her
+- 👩‍💼 **Pronouns:**
+  She/Her
 
-🔍 **Availability:** Open to frontend/fullstack internships, open source opportunities, and growth-focused engineering programs
+- 🔍 **Availability:**
+  Open to frontend/fullstack internships, open source opportunities, and growth-focused engineering programs
 
 ## 🛠️ My Toolkit
 
@@ -84,6 +92,9 @@ I’m a proud Scrimbassador, and I recommend Scrimba for learning web developmen
 <a href="mailto:mmesomanzeribe@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+
+#
+![Profile Views](https://komarev.com/ghpvc/?username=starr365&color=4EA5F1&style=for-the-badge&label=PROFILE+VIEWS)
 
 ## 📊 GitHub Stats
 
