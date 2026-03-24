@@ -1,10 +1,11 @@
-<div align="center">
+<h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hey+there+👋;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4EA5F1&center=true&vCenter=true&width=1000&lines=Hey+there+👋;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
   </a>
-</div>
+</h1>
 
-<h1 align="center">I am Nzeribe Mmesoma Stella</h1>
+<h1>I am Nzeribe Mmesoma Stella</h1>
+
 A Fullstack Developer (Frontend-focused) and Computer Science undergraduate passionate about building scalable, user-focused web applications and solving real-world problems through technology 🌍💻
 
 In addition to building, I enjoy collaborating on real-world projects, supporting beginner developers, and continuously improving my skills in tech💡✨
@@ -25,8 +26,6 @@ In addition to building, I enjoy collaborating on real-world projects, supportin
 
 🔍 **Availability:** Open to frontend/fullstack internships, open source opportunities, and growth-focused engineering programs
 
----
-
 ## 🛠️ My Toolkit
 
 ### 💻 Frontend
@@ -45,7 +44,7 @@ In addition to building, I enjoy collaborating on real-world projects, supportin
 
 ### ⚙️ State Management
 ![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![React Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 
 ### 🖥️ Backend & Database
 ![Nodejs](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -57,9 +56,7 @@ In addition to building, I enjoy collaborating on real-world projects, supportin
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
----
-
-## 🧠 Learn With Me (Scrimbassador 💜)
+## 🧠 Learn With Me On Scrimba 💜
 
 I’m a proud Scrimbassador, and I recommend Scrimba for learning web development through hands-on practice.
 
@@ -73,12 +70,13 @@ I’m a proud Scrimbassador, and I recommend Scrimba for learning web developmen
 - **Real-world projects** that strengthen your portfolio
 - **Beginner-friendly** and industry-relevant
 
----
-
 ## 💬 Let’s Connect!
 
 <a href="https://www.linkedin.com/in/mmesoma-nzeribe/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://x.com/starr_o25" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
 <a href="https://github.com/Starr365" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -87,19 +85,16 @@ I’m a proud Scrimbassador, and I recommend Scrimba for learning web developmen
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
----
-
 ## 📊 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=starr365&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="starr365" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=starr365&show_icons=true&theme=holi&locale=en&layout=compact" alt="starr365" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=starr365&show_icons=true&theme=tokyonight&locale=en" alt="starr365" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=starr365&show_icons=true&theme=holi&locale=en" alt="starr365" />
 </p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=starr365&theme=tokyonight" alt="starr365" />
 </p>
-
