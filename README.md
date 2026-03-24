@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007BFF&center=true&vCenter=true&width=435&lines=Hey+there+👋;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hey+there+👋;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+  </a>
 </div>
 
 <h1 align="center">I am Nzeribe Mmesoma Stella</h1>
-
-### A Fullstack Developer (Frontend-focused) and Computer Science undergraduate passionate about building scalable, user-focused web applications and solving real-world problems through technology 🌍💻
+A Fullstack Developer (Frontend-focused) and Computer Science undergraduate passionate about building scalable, user-focused web applications and solving real-world problems through technology 🌍💻
 
 In addition to building, I enjoy collaborating on real-world projects, supporting beginner developers, and continuously improving my skills in tech💡✨
 
@@ -29,31 +30,32 @@ In addition to building, I enjoy collaborating on real-world projects, supportin
 ## 🛠️ My Toolkit
 
 ### 💻 Frontend
-<a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.simpleicons.org/react/61DAFB" alt="react" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank"> <img src="https://cdn.simpleicons.org/react/61DAFB" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.simpleicons.org/nextdotjs/000000" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="typescript" width="40" height="40"/> </a>
-<a href="https://svelte.dev/" target="_blank"> <img src="https://cdn.simpleicons.org/svelte/FF3E00" alt="svelte" width="40" height="40"/> </a>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 
 ### 🎨 HTML & Styling
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://cdn.simpleicons.org/css3/1572B6" alt="css" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://ui.shadcn.com/" target="_blank"> <img src="https://cdn.simpleicons.org/shadcnui/000000" alt="shadcnui" width="40" height="40"/> </a>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ### ⚙️ State Management
-<a href="https://zustand-demo.pmnd.rs/" target="_blank"> <img src="https://img.icons8.com/color/48/bear.png" alt="zustand" width="40" height="40"/> </a>
-<a href="https://tanstack.com/query/latest" target="_blank"> <img src="https://cdn.simpleicons.org/reactquery/FF4154" alt="tanstackquery" width="40" height="40"/> </a>
+![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 
 ### 🖥️ Backend & Database
-<a href="https://nodejs.org/" target="_blank"> <img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com/" target="_blank"> <img src="https://cdn.simpleicons.org/express/000000" alt="express" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://supabase.com/" target="_blank"> <img src="https://cdn.simpleicons.org/supabase/3FCF8E" alt="supabase" width="40" height="40"/> </a>
+![Nodejs](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🧪 Testing
-<a href="https://www.postman.com/" target="_blank"> <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="postman" width="40" height="40"/> </a>
-<a href="https://playwright.dev/" target="_blank"> <img src="https://cdn.simpleicons.org/playwright/2EAD33" alt="playwright" width="40" height="40"/> </a>
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ---
 
@@ -100,3 +102,4 @@ I’m a proud Scrimbassador, and I recommend Scrimba for learning web developmen
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=starr365&theme=tokyonight" alt="starr365" />
 </p>
+
