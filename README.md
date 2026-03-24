@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h1>I am Nzeribe Mmesoma Stella</h1>
+<h1>I am Nzeribe, Mmesoma Stella</h1>
 
 A Fullstack Developer (Frontend-focused) and Computer Science undergraduate passionate about building scalable, user-focused web applications and solving real-world problems through technology 🌍💻
 
